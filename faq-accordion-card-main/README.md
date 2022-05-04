@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](screenshot.jpg)
-![Screenshot Mobile](screenshot_mobile.jpg)
+![Screenshot](screenshot.JPG)
+![Screenshot Mobile](screenshot_mobile.JPG)
 
 
 ## My process
@@ -36,7 +36,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
 
 
 ## Author
